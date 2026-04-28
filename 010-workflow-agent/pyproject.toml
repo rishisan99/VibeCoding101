@@ -1,0 +1,10 @@
+[project]
+name = "010-workflow-agent"
+version = "0.1.0"
+description = "Simple workflow agent with Streamlit"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "openai>=2.33.0",
+    "streamlit>=1.56.0",
+]
