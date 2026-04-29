@@ -1,0 +1,27 @@
+[project]
+name = "job-application-agent"
+version = "0.1.0"
+description = "Simple resume and JD analysis app"
+readme = "README.md"
+authors = [
+    { name = "rishisan99", email = "santhoshrishi9999@gmail.com" }
+]
+requires-python = ">=3.12"
+dependencies = [
+    "chromadb>=1.5.8",
+    "fastapi>=0.136.1",
+    "httpx>=0.28.1",
+    "langgraph>=1.1.10",
+    "openai>=2.33.0",
+    "pypdf>=6.10.2",
+    "python-multipart>=0.0.27",
+    "streamlit>=1.57.0",
+    "uvicorn>=0.46.0",
+]
+
+[project.scripts]
+job-agent = "job_application_agent:main"
+
+[build-system]
+requires = ["uv_build>=0.10.0,<0.11.0"]
+build-backend = "uv_build"

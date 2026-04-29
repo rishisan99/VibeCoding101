@@ -1,0 +1,3 @@
+Built FastAPI apps
+Built Streamlit demos
+Worked on Python projects
