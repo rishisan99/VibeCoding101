@@ -1,0 +1,16 @@
+[project]
+name = "lead-qualification-agent"
+version = "0.1.0"
+description = "Simple lead qualification app"
+requires-python = ">=3.11"
+dependencies = [
+  "fastapi",
+  "langgraph",
+  "openai",
+  "streamlit",
+  "uvicorn",
+  "requests",
+]
+
+[tool.uv]
+package = false
