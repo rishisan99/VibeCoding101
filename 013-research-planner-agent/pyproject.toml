@@ -1,0 +1,25 @@
+[project]
+name = "013-research-planner-agent"
+version = "0.1.0"
+description = "Simple research planner with FastAPI, Streamlit, and LangGraph."
+readme = "README.md"
+authors = [
+    { name = "rishisan99", email = "santhoshrishi9999@gmail.com" }
+]
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi>=0.136.1",
+    "langgraph>=1.1.10",
+    "openai>=2.33.0",
+    "requests>=2.33.1",
+    "streamlit>=1.57.0",
+    "uvicorn>=0.46.0",
+]
+
+[project.scripts]
+run-api = "app.api.main:run"
+run-ui = "app.ui.main:run"
+
+[build-system]
+requires = ["uv_build>=0.11.8,<0.12.0"]
+build-backend = "uv_build"
