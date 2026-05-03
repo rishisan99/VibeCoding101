@@ -1,0 +1,17 @@
+SERVICE AGREEMENT
+
+This Service Agreement is between Alpha Analytics Pvt Ltd and City Retail Hub.
+The service provider will deliver monthly sales reports, dashboard support, and demand forecasting.
+The agreement starts on June 15, 2026 and continues for 18 months.
+
+Payment:
+City Retail Hub will pay INR 45,000 per month within 45 days of invoice.
+
+Confidentiality:
+The client should try to keep shared business data confidential.
+
+Termination:
+Only the client may terminate this agreement with 7 days written notice.
+
+Liability:
+The service provider accepts full responsibility for any direct or indirect business loss.

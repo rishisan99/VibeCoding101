@@ -1,0 +1,5 @@
+API_URL = "http://127.0.0.1:8000"
+PAGE_TITLE = "Contract Risk Agent"
+CHROMA_DIR = "data/chroma"
+EMBED_MODEL = "text-embedding-3-small"
+MODEL_NAME = "gpt-4.1-mini"

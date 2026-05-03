@@ -1,0 +1,20 @@
+SERVICE AGREEMENT
+
+This Service Agreement is between Alpha Analytics Pvt Ltd and Bright Stores Ltd.
+The service provider will deliver monthly sales reports and dashboard support.
+The agreement starts on June 1, 2026 and continues for 12 months.
+
+Payment:
+Bright Stores Ltd will pay INR 50,000 per month within 15 days of invoice.
+
+Confidentiality:
+Both parties must keep shared business data confidential.
+
+Termination:
+Either party may terminate this agreement with 30 days written notice.
+
+Liability:
+The service provider's total liability will not exceed the fees paid in the last 3 months.
+
+Dispute Resolution:
+Any dispute will be discussed in good faith before legal action.
