@@ -1,0 +1,1 @@
+- app is slow, sometimes blank, quits unexpectedly, i want smooth ui experience
